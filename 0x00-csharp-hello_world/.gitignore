@@ -4,3 +4,5 @@ bin
 obj
 0x00-csharp-hello_world.csproj
 Program.cs
+*/bin
+*/obj
